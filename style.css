@@ -1,0 +1,46 @@
+.title {
+    color: #2d332a;
+    background-color: #6f8a63;
+    font-size: 46px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    text-align: center;
+}
+
+.list,
+.recipes {
+    color: black;
+    font-size: 28px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 500;
+    text-align: left;
+}
+
+.recipes {
+    font-size: 28px
+}
+
+.ingredients {
+    font-size: 20px
+}
+
+.steps {
+    font-size: 16px
+}
+
+h3 {
+    color: #3e5235;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    text-align: left;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    text-align: left;
+}
+
